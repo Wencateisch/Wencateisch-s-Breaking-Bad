@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://media.istockphoto.com/photos/3d-render-ultraviolet-neon-light-tunnel-hexagon-frame-abstract-picture-id1080309224?k=6&m=1080309224&s=170667a&w=0&h=mlBR85N5VxmWKPYclqR8GAMfg2UU4qYnemDKvkl0vv8=");
+    background-repeat: no-repeat;
+    background-size:1300px 700px;
+}
+
+a {
+    height: 900px;
+    width: 650px;
+}
+
+.carousel {
+  margin-top: 3.5em;
+    height: 800px;
+    perspective: 950px;
+    transform: translateY(-100px);
+}
+
+.carousel carousel-item {
+    width: 7050px;
+}
+
+img {
+    width: 100%;
+    height: 200px;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+    box-sizing: border-box;
+    padding: 10px 5px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}

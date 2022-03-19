@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wencateisch-s-Breaking-Bad/static/css/main.54383d3e.css",
+    "main.js": "/Wencateisch-s-Breaking-Bad/static/js/main.efcf1a4b.js",
+    "static/media/spinner.gif": "/Wencateisch-s-Breaking-Bad/static/media/spinner.f7f05c352dae7a88909b.gif",
+    "static/media/bg.jpg": "/Wencateisch-s-Breaking-Bad/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Wencateisch-s-Breaking-Bad/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Wencateisch-s-Breaking-Bad/index.html",
+    "main.54383d3e.css.map": "/Wencateisch-s-Breaking-Bad/static/css/main.54383d3e.css.map",
+    "main.efcf1a4b.js.map": "/Wencateisch-s-Breaking-Bad/static/js/main.efcf1a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54383d3e.css",
+    "static/js/main.efcf1a4b.js"
+  ]
+}
